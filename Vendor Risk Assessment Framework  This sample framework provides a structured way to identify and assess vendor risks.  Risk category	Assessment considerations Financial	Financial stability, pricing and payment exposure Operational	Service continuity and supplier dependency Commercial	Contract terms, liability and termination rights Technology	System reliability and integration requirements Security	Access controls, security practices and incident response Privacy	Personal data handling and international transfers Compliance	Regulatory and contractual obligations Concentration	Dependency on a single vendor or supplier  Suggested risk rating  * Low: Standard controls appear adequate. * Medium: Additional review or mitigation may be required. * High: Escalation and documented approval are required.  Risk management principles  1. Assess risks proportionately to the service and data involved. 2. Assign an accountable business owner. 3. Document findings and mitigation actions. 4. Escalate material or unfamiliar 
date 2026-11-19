@@ -1,0 +1,29 @@
+Vendor Risk Assessment Framework
+
+This sample framework provides a structured way to identify and assess vendor risks.
+
+Risk category	Assessment considerations
+Financial	Financial stability, pricing and payment exposure
+Operational	Service continuity and supplier dependency
+Commercial	Contract terms, liability and termination rights
+Technology	System reliability and integration requirements
+Security	Access controls, security practices and incident response
+Privacy	Personal data handling and international transfers
+Compliance	Regulatory and contractual obligations
+Concentration	Dependency on a single vendor or supplier
+
+Suggested risk rating
+
+* Low: Standard controls appear adequate.
+* Medium: Additional review or mitigation may be required.
+* High: Escalation and documented approval are required.
+
+Risk management principles
+
+1. Assess risks proportionately to the service and data involved.
+2. Assign an accountable business owner.
+3. Document findings and mitigation actions.
+4. Escalate material or unfamiliar risks to the appropriate specialists.
+5. Review risks periodically and when material changes occur.
+
+Disclaimer: This is an illustrative framework, not a validated legal, security or regulatory assessment methodology.
