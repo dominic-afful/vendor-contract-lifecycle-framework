@@ -1,0 +1,41 @@
+Vendor Contract Renewal Management
+
+Purpose
+
+To establish a consistent process for identifying upcoming vendor contract renewals and avoiding missed notice deadlines.
+
+Recommended tracking fields
+
+Field	Description
+Vendor name	Contracting supplier
+Contract owner	Internal accountable person
+Contract reference	Unique contract identifier
+Effective date	Contract commencement
+Expiry date	Contract end date
+Renewal type	Automatic or manual
+Notice period	Required advance notice
+Notice deadline	Latest date for termination notice
+Annual contract value	Approved financial commitment
+Renewal decision	Renew, renegotiate or terminate
+Approval status	Pending or approved
+
+Suggested review schedule
+
+* 120 days before expiry: Initial performance and spend review.
+* 90 days before expiry: Begin commercial and business assessment.
+* 60 days before expiry: Complete required negotiations and approvals.
+* 30 days before expiry: Confirm decision and execute required actions.
+
+Actual deadlines must always follow the relevant contract terms.
+
+Renewal decision considerations
+
+* Vendor performance.
+* Pricing and market competitiveness.
+* Business need.
+* Security and privacy posture.
+* Financial commitments.
+* Alternative suppliers.
+* Contractual notice requirements.
+
+Control principle: Every active contract should have an assigned owner and a clearly documented renewal or termination decision.
